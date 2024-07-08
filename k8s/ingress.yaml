@@ -1,0 +1,17 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: io-ingress
+spec:
+  ingressClassName: nginx
+  rules:
+  - host: foo.bar.com # add this entry to your host file - 127.0.0.1 foo.bar.com
+    http:
+      paths:
+        - path: /
+          pathType: Prefix # https://pet2cattle.com/2021/04/ingress-pathtype
+          backend:
+            service:
+             name: io-service # this is the name of the service
+             port:
+                number: 8085 # this is the service's cluster port exposed to be talked to a lot

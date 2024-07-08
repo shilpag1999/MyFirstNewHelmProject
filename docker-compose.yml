@@ -1,0 +1,13 @@
+version: "3"
+services:
+    mywebapp:
+        build: .
+        image: imageorigin:v5
+        container_name: containerorigin
+        ports:
+            - 86:80
+        networks:
+          - network
+
+networks:
+  network: {}
