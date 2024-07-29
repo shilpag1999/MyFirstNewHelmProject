@@ -6,7 +6,6 @@
 /Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/MyWebApp2.runtimeconfig.json
 /Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/MyWebApp2.dll
 /Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/MyWebApp2.pdb
-/Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/MyWebApp2.csproj.AssemblyReference.cache
 /Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/MyWebApp2.GeneratedMSBuildEditorConfig.editorconfig
 /Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/MyWebApp2.AssemblyInfoInputs.cache
 /Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/MyWebApp2.AssemblyInfo.cs
@@ -29,3 +28,4 @@
 /Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/MyWebApp2.pdb
 /Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/MyWebApp2.genruntimeconfig.cache
 /Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/ref/MyWebApp2.dll
+/Users/shg/Projects/MyWebApp2/MyWebApp2/obj/Release/net7.0/MyWebApp2.csproj.AssemblyReference.cache
