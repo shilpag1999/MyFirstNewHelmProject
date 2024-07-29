@@ -1,0 +1,7 @@
+/Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/publish/MyWebApp2
+/Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/publish/appsettings.json
+/Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/publish/MyWebApp2.dll
+/Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/publish/MyWebApp2.deps.json
+/Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/publish/MyWebApp2.runtimeconfig.json
+/Users/shg/Projects/MyWebApp2/MyWebApp2/bin/Release/net7.0/publish/MyWebApp2.pdb

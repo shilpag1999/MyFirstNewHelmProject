@@ -16,6 +16,7 @@ spec:
     spec:
       containers:
       - name: io
-        image: localhost:5000/imgoriginv7
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+        imagePullPolicy: IfNotPresent
         ports:
-        - containerPort: 80 # this is the port exposed by your application via dockerfile
+        - containerPort: 80

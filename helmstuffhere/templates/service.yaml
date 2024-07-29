@@ -3,6 +3,7 @@ kind: Service
 metadata:
   name: io-service
 spec:
+  type: LoadBalancer
   selector:
     app: io # this need to match spec -> selector -> matchLabels used in the deployment
   ports:
